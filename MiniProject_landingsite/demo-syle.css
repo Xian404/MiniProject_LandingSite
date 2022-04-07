@@ -19,3 +19,9 @@ h1 {
     padding: 15px;
 
 }
+img {
+    display: block;
+    margin-right: 60%;
+    margin-left: 40%;
+    margin-top: 10%;   
+}
